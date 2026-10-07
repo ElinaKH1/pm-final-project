@@ -18,7 +18,7 @@
 
 ## Step 3 · Craft your hypothesis
 - **Qualitative evidence (from M2) , quote the specific friction / moment of misery for your persona:** “I reassign a route and the driver doesn’t see it for ten, fifteen minutes. By then they’ve driven the wrong way. We keep a WhatsApp group as the real system.”
-- **Quantitative evidence (from M3) , name the metric or data point that confirms the pain; cite the number:** Driver satisfaction with Compliance is only 2.8/5, while 64% of drivers use the Compliance Checklist, confirming that a widely used workflow is creating friction. Account data also shows 31 minutes of daily time lost to manual workarounds.
+- **Quantitative evidence (from M3) , name the metric or data point that confirms the pain; cite the number:** Account data shows 31 minutes of daily time lost to manual workarounds, and the Velocity pilot improved route-assignment speed by 34%, supporting the opportunity to make core route workflows faster and more reliable.
 - **Persona , role, goal, and the friction you confirmed in the reconciliation steps:** An experienced delivery driver who wants to complete the assigned route accurately and on time, but is slowed down by complex and unreliable core workflows.
 - **Problem you are solving , one sentence describing the specific friction this initiative removes:** Drivers cannot complete essential delivery tasks quickly and reliably, pushing them toward texts, calls, screenshots, and printed route copies.
 - **Strategic outcome , what behaviour change do you expect, and how does it map to retention / revenue / churn?:** Drivers complete more daily work in RouteLogic instead of using manual workarounds, improving adoption, customer value, and ultimately retention.
